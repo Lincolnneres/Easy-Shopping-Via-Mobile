@@ -12,6 +12,6 @@
 <br>
 
 <div align="top">
-  <img src="https://github.com/Lincolnneres/Easy-Shopping-Via-Mobile/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-easy" height="400px"/>
+  <img src="https://github.com/Lincolnneres/Easy-Shopping-Via-Mobile/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-easy" height="300px"/>
   <img src="https://github.com/Lincolnneres/Easy-Shopping-Via-Mobile/blob/main/assets/Desktop%20Easy.png?raw=true" alt="Desktop" height="300px"/>
 </div>
