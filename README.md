@@ -9,3 +9,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
 <br>
+<br>
+
+<div align="top">
+  <img src="https://github.com/Lincolnneres/Easy-Shopping-Via-Mobile/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-easy" height="400px"/>
+  <img src="https://github.com/Lincolnneres/Easy-Shopping-Via-Mobile/blob/main/assets/Desktop%20Easy.png?raw=true" alt="Desktop" height="300px"/>
+</div>
